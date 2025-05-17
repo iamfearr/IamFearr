@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Emerge RP](https://discord.gg/A3agyuBWDJ)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:Disc TheSirFearr</h3>
 <p align="left">
 </p>
 
