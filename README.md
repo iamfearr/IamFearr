@@ -101,7 +101,7 @@ I'm currently developing **Emerge RP**, a custom FiveM roleplay server focused o
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=iamfearr&theme=dark&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=C9D1D9&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=iamfearr&theme=dark&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"
     alt="Fearr's GitHub Streak"
   />
 </p>
