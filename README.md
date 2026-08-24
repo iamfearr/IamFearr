@@ -87,21 +87,21 @@ I'm currently developing **Emerge RP**, a custom FiveM roleplay server focused o
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=iamfearr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9"
-    alt="Fearr's GitHub Statistics"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfearr&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9"
-    alt="Fearr's Top Languages"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=iamfearr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9"
+    alt="Fearr's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=iamfearr&hide_border=true&background=0d1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideLabels=c9d1d9&dates=8b949e"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfearr&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9"
+    alt="Fearr's Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=iamfearr&theme=dark&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"
     alt="Fearr's GitHub Streak"
   />
 </p>
