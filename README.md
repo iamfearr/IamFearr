@@ -27,7 +27,7 @@ Currently, I'm building and developing **Emerge RP**, a custom FiveM roleplay pr
 - 🎨 Modern UI/UX development
 - ⚡ Svelte & TypeScript interfaces
 - 🛠️ Developer tools & utilities
-- 🤖 AI-assisted development
+- 🤖 AI-assisted development (building AI driven programs to help devs)
 - 🖥️ Server infrastructure & tooling
 - 🔧 Performance, optimization & debugging
 
