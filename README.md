@@ -87,21 +87,18 @@ I'm currently developing **Emerge RP**, a custom FiveM roleplay server focused o
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=iamfearr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9"
-    alt="Fearr's GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamfearr&theme=github_dark"
+    alt="Fearr's GitHub Statistics"
   />
-</p>
-
-<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfearr&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamfearr&theme=github_dark"
     alt="Fearr's Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=iamfearr&theme=dark&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"
+    src="https://streak-stats.demolab.com/?user=iamfearr&theme=dark&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=C9D1D9&dates=8B949E"
     alt="Fearr's GitHub Streak"
   />
 </p>
